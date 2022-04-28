@@ -30,6 +30,16 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 env.bat
+.env
 
 # vercel
 .vercel
+
+node_modules
+coverage
+coverage.json
+typechain
+
+#Hardhat files
+cache
+artifacts
